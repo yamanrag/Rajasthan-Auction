@@ -57,7 +57,7 @@ Make sure you have the following installed:
 
 #### 1. Clone the Repository
 ```sh
-git clone https://github.com/theavnishkumar/online-auction-system.git
+git clone https://github.com/yamanrag/online-auction-system.git
 cd online-auction-system
 ```
 
